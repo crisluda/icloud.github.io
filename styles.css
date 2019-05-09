@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: #ffffff;
+}
+body{
+    background-color: #0F4980;
+    font-family: 'Open Sans', sans-serif;
+}
+.section-main-body{
+    height: 95vh;
+    width: 100%;
+}
+.section-navbar{
+    width: 100%;
+    padding-top: 15px;
+}
+.section-navbar a {
+    text-decoration: none;
+    font-size: 22px;
+}
+.section-navber-ic{
+    float: left;
+    padding-left: 15px;
+}
+.section-navber-si{
+    float: right;
+    font-size: 12px;
+    font-weight: lighter;
+}
+.section-navber-si a{
+    padding-right: 15px;
+
+}
+.question-mk{
+    color: #ffffff;
+    border-left: 1px solid white;
+    padding: 0px 13px;
+}
+.section-main{
+    text-align: center;
+    clear: both;
+    padding-top: 60px;
+}
+.section-main img{
+    width: 100px;
+}
+.section-main p{
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.section-form{
+    
+}
+input[type="text"]{
+  border-radius: 8px;
+  border: none;
+  width: 300px;
+  height: 7vh;
+  padding: 20px;
+  font-size: medium;
+  margin-top: 4px;
+  margin-bottom: 60px;
+  color: black;
+  box-sizing: border-box;
+}
+input[type="checkbox"]{
+width: 16px;
+height: 16px;
+margin-right: 6px;
+}
+/* span{
+    padding-left: 10px;
+} */
+.section-form-brd{
+    border-bottom: 1px solid #ffffff;
+    width: 250px;
+    margin: auto;
+    padding-bottom: 15px;
+}
+.section-form-fgp{
+    padding-top: 15px;
+    font-size: 13px;
+}
+.footer-main{
+    font-size: 12px;
+}
+.footer-main a {
+    text-decoration: none;
+}
+.footer-logo img{
+    width: 20px;
+    float: left;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.footer-caid{
+    float: right;
+    padding: 0px 10px;
+}
+.footer-ss{
+    float: right;
+    border-right: 1px solid whitesmoke;
+    padding: 0px 10px;
+}
+.footer-pp{
+    float: right;
+    border-right: 1px solid whitesmoke;
+    padding: 0px 10px;
+}
+.footer-tc{
+    float: right;
+    border-right: 1px solid whitesmoke;
+    padding: 0px 10px;
+}
+.footer-legal{
+    float: right;
+    border-right: 1px solid whitesmoke;
+    padding-right: 10px;
+}
